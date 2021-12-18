@@ -652,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #0f0f0f!important;
 }
 
 .container {
@@ -786,12 +786,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f85103;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #f85103!important;
     color: #FFFFFF!important;
 }
 
@@ -800,15 +800,15 @@ h4 {
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #fdf7f7!important;
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #f85204!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #e75714!important;
 }
 
 .icon-dark-slate-blue {
